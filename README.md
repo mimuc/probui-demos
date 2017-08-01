@@ -1,7 +1,7 @@
 # ProbUI Demos
 ProbUI is a probabilistic reinterpretation of bounding boxes designed to facilitate creating dynamic and adaptive mobile touch GUIs. It's available as an Android framework here. To get started and find out what it's all about, you can watch the [video](www.medien.ifi.lmu.de/probui/video) and check the [paper](http://www.medien.ifi.lmu.de/forschung/publikationen/detail?pub=buschek2017chi).
 
-This repository hosts examples using the (compiled) libary. If you are interested in the probui library source code, check out the [library project](https://github.com/mimuc/probui-demos).
+This repository hosts examples using the (compiled) library. If you are interested in the probui library source code, check out the [library project](https://github.com/mimuc/probui-demos).
 
 
 ## Publications:
